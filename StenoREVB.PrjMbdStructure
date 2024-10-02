@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=StenoREVB.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=StenoBoard_R\StenoBoard_R.PrjPcb
+Record=SubProject|SourceDocument=StenoREVB.MbsDoc|ProjectPath=StenoBoard_R\StenoBoard_R.PrjPcb
+Record=DiagramHierarchy|SourceDocument=StenoREVB.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=MagPogo\MagPogo.PrjPcb
+Record=SubProject|SourceDocument=StenoREVB.MbsDoc|ProjectPath=MagPogo\MagPogo.PrjPcb
+Record=DiagramHierarchy|SourceDocument=StenoREVB.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=MagPogo\MagPogo.PrjPcb
+Record=SubProject|SourceDocument=StenoREVB.MbsDoc|ProjectPath=MagPogo\MagPogo.PrjPcb
+Record=DiagramHierarchy|SourceDocument=StenoREVB.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=StenoBoard_L\StenoBoard_L.PrjPcb
+Record=SubProject|SourceDocument=StenoREVB.MbsDoc|ProjectPath=StenoBoard_L\StenoBoard_L.PrjPcb
